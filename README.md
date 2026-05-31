@@ -23,18 +23,18 @@
 
 ## Rig Support Stand
 
-&emsp;The support of the entire rig, situated in ProiectPrintare3D/MainDesign/Support.f3d
+&emsp;The support of the entire rig.
 
 <img width="484" height="701" alt="image" src="https://github.com/user-attachments/assets/cdbf6673-568f-4df2-9e9a-b3879466fa71" />
 
 ## Crank Lever
 
-&emsp;The moving mechanism of the robot, uses two cogs that will be described in Joint Legs as they are the same. This is the part that is meant to be rotated to start everything. Situated at ProiectPrintare3D/MainDesign/Lever.f3d
+&emsp;The moving mechanism of the robot, uses two cogs that will be described in Joint Legs as they are the same. This is the part that is meant to be rotated to start everything.
 
 <img width="597" height="589" alt="image" src="https://github.com/user-attachments/assets/9e98f0b5-06e4-496d-900c-0efffa9ef727" />
 
 ## Joint Legs
-&emsp; Will only show the right leg, the left one is the same but flipped. The legs are moved using a Jansen Mechanism Linkage. Sitatued at ProiectPrintare3D/MainDesign/Legs/... .
+&emsp; Will only show the right leg, the left one is the same but flipped. The legs are moved using a Jansen Mechanism Linkage.
 
 <img width="970" height="475" alt="image" src="https://github.com/user-attachments/assets/ca919542-278d-42fb-a08c-5252d468d01a" /> 
 
@@ -44,7 +44,7 @@
 
 ## Torso Rig
 
-&emsp; A simple triangle shaped rig for the torso parts and arms. To be mentioned that the torso is suspended compared to the legs. Situated at PrintareModelare3D/MainDesign/Torso.f3d
+&emsp; A simple triangle shaped rig for the torso parts and arms. To be mentioned that the torso is suspended compared to the legs.
 
 <img width="497" height="786" alt="image" src="https://github.com/user-attachments/assets/530acd3d-2180-421c-8cfa-8968356704e7" />
 
@@ -72,7 +72,7 @@
 
 ## Key Cog and Key
 
-&emsp; The core of the arm waving mechanism, we are presenting them together. Situated at PrintareModelare3D/MainDesign/BaseParts/KeyMechanism/MiniKey.f3d. The key is set into the support to ensure horizontal movement.
+&emsp; The core of the arm waving mechanism, we are presenting them together. The key is set into the support to ensure horizontal movement.
 
 <img width="842" height="525" alt="image" src="https://github.com/user-attachments/assets/bf10f90a-f4a4-4df5-bd01-b4366d402cd8" />
 
