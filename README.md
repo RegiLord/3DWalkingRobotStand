@@ -2,6 +2,7 @@
 
 &emsp;A 3D fusion 360 project consisting in STL files of the pieces and f3d of the entire project.
 
+<a href="https://youtu.be/Dnu55oeVTK4"> Link to youtube demonstrations.</a>
 <a href="https://a360.co/3PSziw8">Link to fusion 360 project.</a>
 
 <img width="1520" height="770" alt="LocalRender" src="https://github.com/user-attachments/assets/8c88a6e3-fb10-4779-8299-99bee0969d34" />
