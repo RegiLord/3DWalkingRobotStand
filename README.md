@@ -3,6 +3,9 @@
 &emsp;A 3D fusion 360 project consisting in STL files of the pieces and f3d of the entire project.
 
 <a href="https://a360.co/3PSziw8">Link to fusion 360 project.</a>
+
+<img width="1520" height="770" alt="LocalRender" src="https://github.com/user-attachments/assets/8c88a6e3-fb10-4779-8299-99bee0969d34" />
+
 ### Description
 
 &emsp;A stand containing a humanoid rig mechanical body with a horizontal crank that can be fully turned. Upon turning the handle the robot starts moving in place, turning it's hips, knees. It also has a minimal arm waving feature. The ideea of the rig is to be fully cusomizable, parts such as armor, boots, clothes, hands, heand can be modeled sepparately and attached to the rig using provided connectors in the project.
